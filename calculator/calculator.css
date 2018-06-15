@@ -1,0 +1,38 @@
+body {
+	background: #87CEEB;
+}
+
+.calculator {
+	width: 440px;
+	padding: 20px;
+	background-color:hsl(230, 40%, 40%);
+
+
+}
+
+.input {
+	width: 410px;
+	margin: 10px 10px 10px 10px;
+	padding: 0 10px 0 10px;
+	font-size: 30px;
+	
+}
+
+.button {
+	width: 100px;
+	height: 50px;
+	color:#0000FF;
+	background-color:hsl(0,0%,85%);
+	font-size:20px;
+
+
+}
+.basic {
+	width: 415px;
+	padding: 10px 10px 10px 10px;
+
+}
+
+.equal-sign{
+	background-color:hsl(30,80%,49%);
+}
